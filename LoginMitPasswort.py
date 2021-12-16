@@ -1,7 +1,7 @@
-# Hier gibt der Benutzer sein Paaswort ein
+# Hier gibt der Benutzer sein Passwort ein
 x = input("Passwort eingeben: ")
 
-# Wenn das Passwort richtig ist, steht herzlich willkommen.
+# Ist das Passwort richtig ist, steht herzlich willkommen.
 if (int(x)) == 11:
     print("Herzlich willkommen")
 
